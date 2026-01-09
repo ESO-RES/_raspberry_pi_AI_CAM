@@ -11,7 +11,7 @@ SEG_MS = "600000" # 8 Hours
 FPS = "15"
 BITRATE = "2000000" # 2 Mbps
 # disk guard
-MIN_FREE_GB = 100
+MIN_FREE_GB = 100 # 5% of 2TB
 def main():
     rpiVIDSec()
 def rpiVIDSec():
