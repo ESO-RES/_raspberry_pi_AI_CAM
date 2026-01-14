@@ -38,5 +38,5 @@ def rpiCAMStill():
 if __name__ == "__main__":
     try:
         main()
-    except KeyboardInterrup:
+    except KeyboardInterrupt:
         exit()
