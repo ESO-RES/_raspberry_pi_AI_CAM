@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# rpiAICAM_picamera2_cv_mobilenetssd.py
 # Picamera2 + OpenCV DNN (Caffe MobileNet-SSD) — still capture with:
 #   - Professional overlay
 #   - "person detected" => save image + write one-line event log
