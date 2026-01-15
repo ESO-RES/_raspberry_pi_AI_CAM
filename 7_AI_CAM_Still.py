@@ -7,8 +7,8 @@
 #   - Hashing/version stamping (model hashes, OpenCV, Python)
 #
 # Requires (local files):
-#   /home/fry/models/MobileNetSSD_deploy.prototxt
-#   /home/fry/models/MobileNetSSD_deploy.caffemodel
+#   8.2_deploy.prototxt
+#   8.3_mobilenet_iter_73000.caffemodel
 #
 # Output (mount/fallback):
 #   image_<ts>.jpg           (overlay)
